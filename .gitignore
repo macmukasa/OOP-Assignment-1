@@ -223,3 +223,8 @@ oop/
 *.png
 *.csv
 append_markdowns.py
+fix_prints.py
+fix_remaining.py
+fix_solar.py
+fix_tasks.py
+
