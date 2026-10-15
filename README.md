@@ -66,5 +66,5 @@ To set up the project locally and run the notebooks:
 
 ## AI Declaration
 
-AI Coding Assistants were utilized during the completion of this assignment. The AI was used as a pair-programmer to assist in structuring the Object-Oriented code, and generating the boilerplate for `pytest` unit tests. All mathematical modeling, architectural choices, and analytical interpretations were actively guided and reviewed to strictly adhere to the assignment's rubric.
+AI Coding Assistants were utilized during the completion of this assignment. The AI was used to assist in structuring the Object-Oriented code, and generating the boilerplate for `pytest` unit tests, as well as generating the Readme file. All mathematical modeling, architectural choices, and analytical interpretations were actively guided and reviewed to strictly adhere to the assignment's rubric.
 
